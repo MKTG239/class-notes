@@ -1,6 +1,7 @@
 ---
-title: Experimental blog to test for class
+title: OK, this is the real blog main page
 ---
 
-# Launching forward
-Well, here goes. Let's see how this plays out. I'll go to work generating posts and eventually revising this page. 
+# Be careful to work on the right branch.
+
+I did not do that the first time.
